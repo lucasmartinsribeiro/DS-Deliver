@@ -16,32 +16,32 @@
   <img src="https://img.shields.io/static/v1?label=expo&message=40.0.0&color=F2F2F2&style=flat-square&logo=expo"/>
 </p>
 
-# 📖 Sobre
+# 📖 About the project
 <p>DS Delivery aims to create a system capable of placing orders in a fictitious food establishment.</p>
 
-# 🛠 Tecnologias
+# 🛠 Technology
 
 - Front-end:
-   HTML / CSS / Typescript
-   React.JS
-   Expo
-   Axios
+  - HTML / CSS / Typescript
+  - ReactJS
+  - Expo
+  - Axios
 - Back-end:
-   Java
-   Springboot
-   JPA / Hibernate
-   Maven
+  - Java
+  - Springboot
+  - JPA / Hibernate
+  - Maven
 - Mobile:
-   HTML / CSS / Typescript
-   React Native
-   Expo
-   Axios
-- Implantação em produção:
+  - Typescript
+  - React Native
+  - Expo
+  - Axios
+- Deployment in production:
   - Front-end: Netlify
   - Back-end: Heroku
-  - Banco de dados: PostgreSQL
+  - Database: PostgreSQL
 
-# 💻 Instalação
+# 💻 Installation
 <p>For the installation of the tools that were necessary for the development of the project, follow a list of links below for each Operating System: </p>
 
 [Guia de instalação para Windows](https://github.com/devsuperior/sds1/tree/master/ferramentas/windows)
@@ -49,3 +49,11 @@
 [Guia de instalação para Linux](https://github.com/devsuperior/sds1/tree/master/ferramentas/linux)
 
 [Guia de instalação para MAC](https://github.com/devsuperior/sds1/tree/master/ferramentas/mac)
+
+## 📝 License
+
+This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
+
+---
+
+<p align="center">Developed with 👨‍💻 by Lucas Ribeiro</p>
